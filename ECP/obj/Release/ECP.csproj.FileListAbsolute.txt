@@ -1,0 +1,18 @@
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Программа-ЭЦП RSA\ECP\bin\Release\ECP.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Программа-ЭЦП RSA\ECP\bin\Release\ECP.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Программа-ЭЦП RSA\ECP\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Программа-ЭЦП RSA\ECP\obj\Release\ECP.Form1.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Программа-ЭЦП RSA\ECP\obj\Release\ECP.Properties.Resources.resources
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Программа-ЭЦП RSA\ECP\obj\Release\ECP.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Программа-ЭЦП RSA\ECP\obj\Release\ECP.exe
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Программа-ЭЦП RSA\ECP\obj\Release\ECP.pdb
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2008\Projects\Программа-ЭЦП RSA\ECP\obj\Release\ECP.AboutForm.resources
+E:\Документы\Программирование\Программа-ЭЦП RSA\ECP\obj\Release\ECP.exe
+E:\Документы\Программирование\Программа-ЭЦП RSA\ECP\obj\Release\ECP.pdb
+E:\Документы\Программирование\Программа-ЭЦП RSA\ECP\bin\Release\ECP.exe
+E:\Документы\Программирование\Программа-ЭЦП RSA\ECP\bin\Release\ECP.pdb
+E:\Документы\Программирование\Программа-ЭЦП RSA\ECP\obj\Release\ResolveAssemblyReference.cache
+E:\Документы\Программирование\Программа-ЭЦП RSA\ECP\obj\Release\ECP.AboutForm.resources
+E:\Документы\Программирование\Программа-ЭЦП RSA\ECP\obj\Release\ECP.Form1.resources
+E:\Документы\Программирование\Программа-ЭЦП RSA\ECP\obj\Release\ECP.Properties.Resources.resources
+E:\Документы\Программирование\Программа-ЭЦП RSA\ECP\obj\Release\ECP.csproj.GenerateResource.Cache
